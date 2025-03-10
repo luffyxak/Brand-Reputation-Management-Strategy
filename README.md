@@ -13,7 +13,8 @@
 
 **MENTOR**: NEELA SANTOSH
 
-**Description** =Content Marketing Strategy  Developed a structured content marketing strategy for MaxGain Nutrition, focusing on audience engagement, SEO integration, and multi-platform content distribution. Includes detailed blog topics, social media strategies, and promotional campaigns.
+**Description** =Brand Reputation Management  Created a reputation management strategy to monitor and enhance MaxGain Nutrition’s online presence. Includes review handling, crisis management, influencer collaborations, and brand sentiment improvement techniques.
 
 **output**:
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1182db9b-889d-4d9e-8dc4-53b605614da8" />
